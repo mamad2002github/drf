@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3a37cbe-acb7-46dd-bded-1bc2c039be41" name="Changes" comment="">
+    <list default="true" id="f3a37cbe-acb7-46dd-bded-1bc2c039be41" name="Changes" comment="drf first">
       <change afterPath="$PROJECT_DIR$/.idea/drf_project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -37,6 +37,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mamad2002github/drf.git",
+    "accountId": "95303e24-2e8e-440b-b081-ea82986943a9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -122,11 +128,24 @@
       <workItem from="1734962124930" duration="4013000" />
       <workItem from="1735059106817" duration="150000" />
       <workItem from="1737567998739" duration="3092000" />
-      <workItem from="1737615341190" duration="299000" />
+      <workItem from="1737615341190" duration="651000" />
     </task>
+    <task id="LOCAL-00001" summary="drf first">
+      <option name="closed" value="true" />
+      <created>1737615994897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737615994897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="drf first" />
+    <option name="LAST_COMMIT_MESSAGE" value="drf first" />
   </component>
 </project>
