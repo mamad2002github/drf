@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3a37cbe-acb7-46dd-bded-1bc2c039be41" name="Changes" comment="drf first">
-      <change afterPath="$PROJECT_DIR$/.idea/drf_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog_app/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog_app/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_project/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="f3a37cbe-acb7-46dd-bded-1bc2c039be41" name="Changes" comment="drf continue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mamad2002github/drf.git",
-    "accountId": "95303e24-2e8e-440b-b081-ea82986943a9"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mamad2002github&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mamad2002github/drf.git&quot;,
+    &quot;accountId&quot;: &quot;95303e24-2e8e-440b-b081-ea82986943a9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -128,7 +124,11 @@
       <workItem from="1734962124930" duration="4013000" />
       <workItem from="1735059106817" duration="150000" />
       <workItem from="1737567998739" duration="3092000" />
-      <workItem from="1737615341190" duration="651000" />
+      <workItem from="1737615341190" duration="9490000" />
+      <workItem from="1737640288740" duration="20000" />
+      <workItem from="1737704107518" duration="7841000" />
+      <workItem from="1737729510197" duration="167000" />
+      <workItem from="1737817848251" duration="9582000" />
     </task>
     <task id="LOCAL-00001" summary="drf first">
       <option name="closed" value="true" />
@@ -138,14 +138,34 @@
       <option name="project" value="LOCAL" />
       <updated>1737615994897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="drf continue">
+      <option name="closed" value="true" />
+      <created>1737616085172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737616085172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="drf first" />
-    <option name="LAST_COMMIT_MESSAGE" value="drf first" />
+    <MESSAGE value="drf continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="drf continue" />
   </component>
 </project>
